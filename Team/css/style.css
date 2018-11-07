@@ -404,8 +404,8 @@ a.icon {
 }
 
 #header .header-thumb {
-  background: #ffffff;
-  border: 10px solid #f9f9f9;
+  background: rgba(255,255,255, 0.5);
+  border: 10px solid rgba(249,249,249, 0.5);
   padding: 62px 20px 62px 20px;
 }
 
